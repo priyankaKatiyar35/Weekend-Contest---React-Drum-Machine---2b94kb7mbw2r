@@ -30,4 +30,3 @@ function Pads({ power }) {
 }
 
 export default Pads;
-Footer
